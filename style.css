@@ -292,7 +292,7 @@ button:hover{
 
 table {
   width: 100%;
-  border-collapse: collapse; /* isku dhaf borders */
+  border-collapse: collapse;
   margin: 25px 0;
   font-size: 16px;
   font-family: Arial, sans-serif;
@@ -619,5 +619,18 @@ footer{
      padding:10px;
     font-weight: 400;
      margin: 1rem 0 ;
+}
+
+table{
+    width: 100%;
+    
+}
+.back{
+    width: 100%;
+}
+
+th, td{
+    margin: 1rem 0;
+     padding: 1rem 0;
 }
 }
